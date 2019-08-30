@@ -1,0 +1,9 @@
+x,y=map(str,input().split())
+z=len(x)
+w=len(y)
+if(z>w):
+  print(x)
+elif(z==w):
+  print(x)
+else:
+  print(y)
