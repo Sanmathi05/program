@@ -1,2 +1,4 @@
 x,y=map(int,input().split())
-print(x<<y)
+z=x<y
+m=z<y
+print(m)
